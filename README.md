@@ -11,7 +11,8 @@
 ## Usage
 
 ```sh
-python server.py python client.py
+python server.py 
+python client.py
 ```
 
 ## Author
