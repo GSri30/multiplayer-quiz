@@ -6,9 +6,13 @@
   </a>
 </p>
 
-> This is a simple quiz program developed using a few py
+> This is a simple quiz program developed using a few python modules
+
+> This currently supports only 3players
 
 ## Usage
+
+> Open 4 terminals in which one terminal will be a server and the rest of the 3 terminals would be clients (players)
 
 ```sh
 python server.py 
